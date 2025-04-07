@@ -1,4 +1,4 @@
-@extends('main')
+<!-- @extends('main')
 
 
 
@@ -9,5 +9,8 @@
 @endsection
 
 @section('content')
-    <h1>This section is form home</h1>
-@endsection
+    <h1>This section is from home</h1>
+@endsection -->
+
+
+<x-componentone msg="this is the message" newmsg="this is a new msg" />
